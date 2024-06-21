@@ -1,0 +1,7 @@
+pandas
+requests
+gspread
+datetime
+lxml
+Jinja2
+python-dotenv
